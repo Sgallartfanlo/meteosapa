@@ -18,7 +18,7 @@ Pots visualitzar el vídeo de demostració inclòs al repositori:
 
 - [Oleguer Esteo](https://olegueresteo.es/)  
 - [David Gutierrez](https://davidgutierrez.es/)  
-[- Sergi Gallart](https://sergigallart.es/ "- Sergi Gallart")
+- [Sergi Gallart](https://sergigallart.es/)
 
 ---
 
@@ -175,4 +175,5 @@ MeteoSapa
 Per dubtes o col·laboracions, contactar amb els membres del projecte indicats a la secció "Membres del projecte".
 
 ---
+
 
